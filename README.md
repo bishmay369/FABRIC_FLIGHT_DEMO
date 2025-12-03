@@ -4,8 +4,6 @@
 This guide provides step-by-step instructions on using Copilot and other AI tools within Microsoft Fabric to build an end-to-end flight delay prediction solution. Visitors can follow these instructions to learn how to effectively leverage AI capabilities in Microsoft Fabric.
 
 
-### Repository: `fabric-flight-ai-demo`
-
 ---
 
 ## Step 0: Create Workspace
@@ -24,7 +22,7 @@ First, you need to create a Microsoft Fabric workspace:
 
 ![Create Workspace Dialog](images/create-workspace2.png)
 
-- Name it: `fabric-flight-ai-demo` (or your preferred name)
+- Name it: `fabric-flight-demo` (or your preferred name)
 - Add description: "Flight delay prediction demo using Microsoft Fabric AI tools"
 - Click **Apply**
 
